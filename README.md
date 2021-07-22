@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+I'm David and I'm a software engineer located in Southern California that focuses on both front- and back-end development. I code mostly in JavaScript-- including many JS frameworks such as React, React Native and Angular, but I am also familiar with Python, Java, and a little bit of C. I'm currently into algorithm scripting, but I enjoy working with data, making great ui/ux, and improving designs and workflows.
+
+{{ ISSUES }}
