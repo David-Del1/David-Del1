@@ -5,6 +5,8 @@ I'm David and I'm a software engineer located in Southern California that focuse
 
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" />
+
 
 - 🌱 I’m currently learning Algorithm Scripting & Data Structures 
 - 📫 How to reach me: DavidDel.731@Gmail.com 
