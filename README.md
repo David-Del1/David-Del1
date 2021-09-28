@@ -1,26 +1,45 @@
-### Hi there 👋, My name is David Delgadillo
-## I'm a software engineer in Southern California
+### Hi! I'm David Delgadillo 🦸‍♂️
+<a href="https://www.davidanthony.io/" target="_blank">
+ <img src="https://img.icons8.com/color-glass/48/000000/domain.png"/>
+</a>
+<a href="https://www.linkedin.com/in/davidadelgadillo/" target="_blank">
+ <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/DavidDel_" target="_blank">
+ <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>
+</a>
 
-I'm David and I'm a software engineer located in Southern California that focuses on both front- and back-end development. I code mostly in JavaScript-- including many JS frameworks such as React, React Native and Angular, but I am also familiar with Python, Java, and a little bit of C. I'm currently into algorithm scripting, but I enjoy working with data, making great ui/ux, and improving designs and workflows.
+## I'm a software engineer in Southern California
+- 🥵 I recently completed a full time, 25-week coding bootcamp
+- 👨‍💻 I'm currently focused on building full stack applications using different tech stacks & frameworks
+- 🔭 I love discovering and learning new technologies and applying them to new projects
+- 🧐 Currently interested in blockchain/crypto
 
 ### Languages
-<div style="flex padding-10">
+<div style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
 
-<div>
 
+</div>
   
-  
-  
+
+### Technologies
+<div style="flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
+</div>
+&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Del1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Del1&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=David-Del1)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Del1&show_icons=true)
 
 
 
