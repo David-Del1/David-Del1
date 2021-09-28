@@ -4,7 +4,7 @@
 I'm David and I'm a software engineer located in Southern California that focuses on both front- and back-end development. I code mostly in JavaScript-- including many JS frameworks such as React, React Native and Angular, but I am also familiar with Python, Java, and a little bit of C. I'm currently into algorithm scripting, but I enjoy working with data, making great ui/ux, and improving designs and workflows.
 
 ### Languages
-<div style="flex justifyContent=spaceEvenly">
+<div style="flex justifyContent:spaceEvenly">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" />
@@ -12,8 +12,6 @@ I'm David and I'm a software engineer located in Southern California that focuse
 
 <div>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-Del1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/davidadelgadillo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/DavidDel_)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Del1)](https://github.com/anuraghazra/github-readme-stats)
 
