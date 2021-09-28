@@ -12,6 +12,9 @@ I'm David and I'm a software engineer located in Southern California that focuse
 
 <div>
 
+  
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Del1)](https://github.com/anuraghazra/github-readme-stats)
 
