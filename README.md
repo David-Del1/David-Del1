@@ -53,6 +53,8 @@
 </div>
 &nbsp;
 
+### GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Del1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Del1&show_icons=true)
