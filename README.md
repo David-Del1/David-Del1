@@ -2,9 +2,13 @@
 <a href="https://www.davidanthony.io/" target="_blank">
  <img src="https://img.icons8.com/color-glass/48/000000/domain.png"/>
 </a>
+ &nbsp;
+ &nbsp;
 <a href="https://www.linkedin.com/in/davidadelgadillo/" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
+ &nbsp;
+ &nbsp;
 <a href="https://twitter.com/DavidDel_" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>
 </a>
