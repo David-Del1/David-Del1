@@ -41,8 +41,14 @@
 ### Technologies
 <div style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+ &nbsp;
+ &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" />
+ &nbsp;
+ &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+ &nbsp;
+ &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
 </div>
 &nbsp;
