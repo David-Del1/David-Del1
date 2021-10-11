@@ -1,4 +1,4 @@
-### Hi! I'm David Delgadillo 🦸‍♂️
+### Hi! I'm David Delgadillo
 <a href="https://www.davidanthony.io/" target="_blank">
  <img src="https://img.icons8.com/color-glass/48/000000/domain.png"/>
 </a>
